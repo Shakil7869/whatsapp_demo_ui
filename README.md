@@ -1,4 +1,4 @@
-# whatsapp_demo
+# whatsapp_demo_ui
 
 A new Flutter project.
 
